@@ -33,3 +33,12 @@ console.log(PI); //Number
 
 
 
+//// Esercizio 2/C
+/// Dichiara una variabile chiamata radius e assegnale il valore 8.
+/// Moltiplica radius x 2 e x PI e assegna il valore a una variabile di nome circle.
+/// Stampa il valore della variabile circle in console.
+
+let radius = 8;
+let circle = radius * 2 * PI
+
+console.log(circle)
