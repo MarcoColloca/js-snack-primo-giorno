@@ -1,4 +1,4 @@
-console.log("JS Trial")
+console.log("JS Trial") //String
 
 
 //// Esercizio 1
