@@ -23,3 +23,13 @@ console.log(PI); //Number
 
 
 
+//// Esercizio 2/B
+/// Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
+
+//PI = 3.1416; //Number 
+
+// Si ottiene un errore, in quanto una costante può avere solo un valore, inoltre la console non valuterà i comandi successivi.
+
+
+
+
