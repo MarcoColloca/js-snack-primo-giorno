@@ -38,7 +38,7 @@ console.log(PI); //Number
 /// Moltiplica radius x 2 e x PI e assegna il valore a una variabile di nome circle.
 /// Stampa il valore della variabile circle in console.
 
-let radius = 8;
-let circle = radius * 2 * PI
+let radius = 8; //Number
+let circle = radius * 2 * PI //Number
 
-console.log(circle)
+console.log(circle) //Number
