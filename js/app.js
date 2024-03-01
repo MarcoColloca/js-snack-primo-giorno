@@ -13,13 +13,13 @@ console.log(number); //Number
 
 
 
+
 //// Esercizio 2
 /// Dichiara una costante chiamata PI e assegnale il valore di 3.14. Stampa il valore della costante in console.
 
 const PI = 3.14; //Number
 
 console.log(PI); //Number
-
 
 
 
@@ -32,13 +32,30 @@ console.log(PI); //Number
 
 
 
-
 //// Esercizio 2/C
 /// Dichiara una variabile chiamata radius e assegnale il valore 8.
 /// Moltiplica radius x 2 e x PI e assegna il valore a una variabile di nome circle.
 /// Stampa il valore della variabile circle in console.
 
 let radius = 8; //Number
-let circle = radius * 2 * PI //Number
+let circle = radius * 2 * PI; //Number
 
-console.log(circle) //Number
+console.log(circle); //Number
+
+
+
+
+
+
+
+
+//// Esercizio 3
+/// Dichiara una variabile chiamata name e
+/// assegnale il valore “Carlo”.
+/// Successivamente, modifica il valore della variabile in “Marco”.
+/// Stampa il nuovo valore in console.
+
+let name = "Carlo"; //String
+name = "Marco"; //String
+
+console.log(name) //String
